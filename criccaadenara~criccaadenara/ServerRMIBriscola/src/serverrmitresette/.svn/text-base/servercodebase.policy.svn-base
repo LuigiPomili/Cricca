@@ -1,0 +1,4 @@
+grant codeBase "file:/home/spi/NetBeansProjects/ServerRMIBriscola/src/serverrmitresette/"
+{
+    permission java.security.AllPermission;
+};
