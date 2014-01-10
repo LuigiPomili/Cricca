@@ -9,4 +9,4 @@ The application is written in Java, built around a peer-to-peer architecture and
 
 
 Team Members:
-Alberti Paolo, Badiali Gabriele, Luigi Pomili
+Alberti Paolo, Badiali Gabriele, Pomili Luigi
